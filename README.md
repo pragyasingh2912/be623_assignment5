@@ -8,4 +8,4 @@ Name: Pragya Singh
 - rhythm_plot.png: Scatter plot of expression against Zeitgeber time.
 - expression_boxplot.png: Box plot comparing expression distributions between genes.
 - .gitignore: Excludes RStudio-generated files from version control.
-
+This analysis compares PER2 and BMAL1 expression patterns across six Zeitgeber time points.
